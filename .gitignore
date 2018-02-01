@@ -1,0 +1,11 @@
+
+# Object files
+*.sky
+*.map
+obj_sky/
+
+# Libraries
+*.a
+
+
+*~
