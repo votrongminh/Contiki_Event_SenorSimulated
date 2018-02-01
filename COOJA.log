@@ -1,0 +1,14 @@
+[12:12:04 - AWT-EventQueue-0] [Cooja.java:2865] [INFO] - External tools default settings: /external_tools_linux.config
+[12:12:04 - AWT-EventQueue-0] [Cooja.java:2895] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[12:12:14 - AWT-EventQueue-0] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[12:12:14 - AWT-EventQueue-0] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[12:12:27 - AWT-EventQueue-0] [Cooja.java:4146] [WARN] - Path is not portable: '/home/user/NES/ex01/hello.c
+[12:12:28 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make hello.sky TARGET=sky 
+[12:12:31 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/NES/ex01/hello.sky
+[12:13:22 - Thread-2] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[12:13:22 - Thread-2] [CompileContiki.java:140] [INFO] - > make broadcast-example.sky TARGET=sky 
+[12:13:22 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/NES/Contiki_Distributed_Event_Detection/broadcast-example.sky
+[12:13:22 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/NES/Contiki_Distributed_Event_Detection/broadcast-example.sky
+[12:13:22 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/NES/Contiki_Distributed_Event_Detection/broadcast-example.sky
+[12:14:13 - AWT-EventQueue-0] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[12:14:56 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make hello.sky TARGET=sky 
